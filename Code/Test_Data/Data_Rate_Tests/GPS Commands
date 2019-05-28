@@ -1,0 +1,16 @@
+Commands to send to GPS module for update rate:
+
+High enough baud rate:
+$PMTK251,115200*1F<CR><LF>
+
+Just the GGA sentences:
+$PMTK314,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0*29<CR><LF>
+
+1Hz update rate
+$PMTK220,1000*1F<CR><LF>
+
+5Hz update rate
+$PMTK220,200*2C<CR><LF>
+
+10Hz update rate
+$PMTK220,100*2F<CR><LF>

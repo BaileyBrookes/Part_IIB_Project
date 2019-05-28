@@ -1,0 +1,25 @@
+Reference, Value, Footprint,Notes
+D3,LED,LED_THT:LED_D3.0mm_Clear,Not supplied
+D2,LED,LED_THT:LED_D3.0mm_Clear,Not supplied
+D1,LED,LED_THT:LED_D3.0mm_Clear,Not supplied
+C1,20pF,Capacitor_SMD:C_0805_2012Metric,Use 22pF
+C2,20pF,Capacitor_SMD:C_0805_2012Metric,Use 22pF
+R1,10K,Resistor_SMD:R_0805_2012Metric,Supplied
+Y1,Crystal,Crystal:Crystal_HC49-4H_Vertical,Supplied
+U4,ATmega328PB-AU,Package_QFP:TQFP-32_7x7mm_P0.8mm,Supplied
+U1,ADP7118,Package_TO_SOT_SMD:TSOT-23-5,Supplied
+C3,2.2uF,Capacitor_SMD:C_1210_3225Metric,Use supplied 10uF
+C4,2.2uF,Capacitor_SMD:C_1210_3225Metric,Use supplied 10uF
+R2,300,Resistor_SMD:R_0805_2012Metric,Use supplied 10uF
+J3,Conn_01x02_Female,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,DO NOT SOLDER TO BOARD
+J1,Conn_01x08_Female,Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical,DO NOT SOLDER TO BOARD
+R3,300,Resistor_SMD:R_0805_2012Metric,Supplied
+R4,300,Resistor_SMD:R_0805_2012Metric,Supplied
+J2,Conn_01x16_Female,Connector_PinSocket_2.54mm:PinSocket_1x16_P2.54mm_Vertical,DO NOT SOLDER TO BOARD
+J4,Conn_01x02_Female,Connector_JST:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical,DO NOT SOLDER TO BOARD
+R5,280k,Resistor_SMD:R_0805_2012Metric,Not supplied
+R6,160k,Resistor_SMD:R_0805_2012Metric,Not supplied
+R7,1.6k,Resistor_SMD:R_0805_2012Metric,Not supplied
+C5,33nF,Capacitor_SMD:C_0805_2012Metric,Not supplied
+SW2,SW_SPDT,Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN,Supplied
+J5,Conn_01x02_Female,Connector_JST:JST_PH_B2B-PH-SM4-TB_1x02-1MP_P2.00mm_Vertical,DO NOT SOLDER TO BOARD

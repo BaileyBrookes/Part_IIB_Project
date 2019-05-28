@@ -1,0 +1,13 @@
+PLAN-26/11/18
+1. Do tests at speed
+2. Breif look at phone apps
+3. Check firmware on the chip
+4. Investigate antenna
+5. See if you can write lat, lon, time, pressure, write in 1/10s
+6. Pressure sensor rate vs noise 1, 10, 100Hz at low wind, early evee/morn
+7. Wack all this in the report plus pla going forward
+8. Order an atenna NOW
+
+
+Conclusions
+1. Differnetials not that useful
