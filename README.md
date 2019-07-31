@@ -1,4 +1,4 @@
-# Part_IIB_Project: Aircraft Data Logger:
+# Part IIB Project: Aircraft Performance Logger:
 ### Developing a cheap module using GPS and pressure sensor to measure accurately take-off distance required (TODR)
 This is the enire project directory, files/folders of note are:
 
